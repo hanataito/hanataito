@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that can become my side hustle!
 - 📫 How to reach me: hanataito@protonmail.com
 - ⚡ Fun fact: My handle is derived from my real name. The first character means 'flowers' in Japanese and the second character means 'a dragon flying in the skies' in Japanese, which is also associated with my Chinese Zodiac!
-- 📍 Currently in Hong Kong ✈️ but grew up in Sydney
+- 📍 Currently in Hong Kong ✈️ grew up in Sydney
 
 <!---
 hanataito/hanataito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
